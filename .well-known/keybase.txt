@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/daneweber
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://daneweber.com
+  * I am daneweber (https://keybase.io/daneweber) on keybase.
+  * I have a public key ASDj2P-TIqdncADPOvVRgUqIFcKQqqx-gSkL60Vs1O03kgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120db1011ebc600004ff202b18844b27cec33b9ebcd62952e5fc259e7cf2f6dad110a",
+      "host": "keybase.io",
+      "kid": "0120e3d8ff9322a7677000cf3af551814a8815c290aaac7e81290beb456cd4ed37920a",
+      "uid": "501bbfe8411b39c336084030d2159619",
+      "username": "daneweber"
+    },
+    "merkle_root": {
+      "ctime": 1585336491,
+      "hash": "5dae77890b8dd08c77c8e267a3a55b8a2f4a74c7e49f136a922d175b6b8a5a7068aa95d35d01dce135ac9d188e63e8cdcc31907a0901f36751f29a2f223c9900",
+      "hash_meta": "c40fe9b27de00429fbbdce114b76f4740e91e425e3acdacad163b4ea59f7099c",
+      "seqno": 15647757
+    },
+    "service": {
+      "entropy": "1cOrGgtGow66bvzQLrA/lAjE",
+      "hostname": "daneweber.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1585336502,
+  "expire_in": 504576000,
+  "prev": "17bf83200d6de6df93dbe8fce74775cc1cb9af363dbf3ee05c79d7faedb01c21",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg49j/kyKnZ3AAzzr1UYFKiBXCkKqsfoEpC+tFbNTtN5IKp3BheWxvYWTESpcCFcQgF7+DIA1t5t+T2+j850d1zBy5rzY9vz7gXHnX+u2wHCHEICs0OZoQu5m1TdY5lmL4RA2wf7AzSM21NVXdXyVRBRksAgHCo3NpZ8RAg8SkmYWRQggdE/uR2UT6oQ092L1ZkL3nzGJNrSu0NbyCFnYz/ys03F5TrMuvUe8LaGMRPeam9PwiiOslfdt6AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN6HahSlVoVVvub5oxuQg+FHlebV0LZpWyaaH4HWFrR9o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/daneweber
+
+==================================================================

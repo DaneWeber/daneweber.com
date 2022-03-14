@@ -22,6 +22,10 @@ I became a full-time software developer for two years after having followed a di
 - [Video of presentation at Agile2019](https://www.agilealliance.org/resources/sessions/undercover-scrum-master/) (paywall/membership required)
 - [Video of presentation at Arlington Tech Talk](https://www.youtube.com/watch?v=pU_LvP8DTv4&t=3s) (personally produced)
 
+## Presentation Slide Decks
+
+The slide decks I use are generally ones I present from [https://daneweber.github.io/presentations/](https://daneweber.github.io/presentations/).
+
 <!-- TODO: Continuous Modernization -->
 <!-- TODO: GAO Agile guide -->
 <!-- TODO: Presentations site -->

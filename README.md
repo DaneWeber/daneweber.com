@@ -1,5 +1,7 @@
 # daneweber.com
 
+Mastodon: <a rel="me" href="https://ruby.social/@dane">@dane@ruby.social</a>
+
 LinkedIn: [https://www.linkedin.com/in/daneweber/](https://www.linkedin.com/in/daneweber/)
 
 Twitter: [https://twitter.com/daneweber](https://twitter.com/daneweber)

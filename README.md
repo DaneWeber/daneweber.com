@@ -4,7 +4,7 @@ Mastodon: <a rel="me" href="https://ruby.social/@dane">@dane@ruby.social</a>
 
 LinkedIn: [https://www.linkedin.com/in/daneweber/](https://www.linkedin.com/in/daneweber/)
 
-Twitter: [https://twitter.com/daneweber](https://twitter.com/daneweber)
+~Twitter: [https://twitter.com/daneweber](https://twitter.com/daneweber)~
 
 Blog: [https://daneweber.wordpress.com/](https://daneweber.wordpress.com/)
 
@@ -15,6 +15,10 @@ GitHub: [https://github.com/DaneWeber/](https://github.com/DaneWeber/)
 I am one of the six co-authors of the Manifesto for Scaling Agility at [scalingmanifesto.org](https://scalingmanifesto.org/)
 
 See also the [GitHub repo for the manifesto](https://github.com/manifestoforscalingagility/ManifestoForScalingAgility.github.io).
+
+## The Undercover Scrum Master Returns
+
+[Agile2023 Presentation](https://daneweber.github.io/presentations/TheUndercoverScrumMasterReturns/TheUndercoverScrumMasterReturns.html)
 
 ## Undercover Scrum Master
 
